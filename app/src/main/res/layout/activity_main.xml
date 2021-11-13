@@ -19,5 +19,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
+    <Button
+        android:id="@+id/btnCondition03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="조건문 01"/>
+
+    <Button
+        android:id="@+id/btnCondition02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="조건문 02"/>
 
 </LinearLayout>
