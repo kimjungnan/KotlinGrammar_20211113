@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-        btnVariable02.setOnClickListener {
+        btnCondition02.setOnClickListener {
 //      회사조건 고연봉, 가까운거리, 워라벨
             val companyASalary = 3000
             val companyADistance = 50
